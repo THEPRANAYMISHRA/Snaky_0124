@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+
+.body{
+    background: url("../bg.png");
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#board{
+    background:linear-gradient(rgba(0, 0, 0, 0.782),rgb(0, 89, 213));
+    width: 120vmin;
+    height: 60vmin;
+    /* border: 2px solid rgb(255, 0, 0); */
+    display: grid;
+    grid-template-columns: repeat(36,1fr);
+    grid-template-rows: repeat(18,1fr);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 5px;
+}
+
+.head{
+    background-color:rgb(219, 0, 0);
+    border-radius: 5px 5px 5px 5px;
+}
+
+.snake{
+    background-color: rgb(0, 0, 0);
+}
+
+.food{
+    background-color: gold;
+    border-radius: 20px;
+}
