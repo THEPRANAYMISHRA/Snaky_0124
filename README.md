@@ -2,7 +2,8 @@
 
 Snaky_Town is a classic snake game built using JavaScript. Enjoy hours of nostalgic fun as you control a growing snake, gobbling up food and avoiding collisions with yourself and the walls.
 
-![Gameplay Screenshots](https://github.com/THEPRANAYMISHRA/Snaky_0124/assets/115460435/screenshots.png)
+![Screenshot 2023-08-14 135444](https://github.com/THEPRANAYMISHRA/Snaky_0124/assets/115460435/676c5961-457e-40a1-8c03-c58e03293873)
+
 
 ## Features
 
@@ -13,8 +14,8 @@ Snaky_Town is a classic snake game built using JavaScript. Enjoy hours of nostal
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/THEPRANAYMISHRA/Snaky_0124/assets/115460435/screenshot1.png)
-![Screenshot 2](https://github.com/THEPRANAYMISHRA/Snaky_0124/assets/115460435/screenshot2.png)
+![Screenshot 2023-08-14 135354](https://github.com/THEPRANAYMISHRA/Snaky_0124/assets/115460435/29d42d01-afe6-451b-98a5-c8eddd28437b)
+
 
 ## How to Play
 
